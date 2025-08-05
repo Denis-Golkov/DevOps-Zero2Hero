@@ -3,11 +3,13 @@
 ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Key Features](#key-features)
-3. [Usage](#usage)
-4. [Examples](#examples)
-5. [Resources](#resources)
+- [Node.js](#nodejs)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Key Features](#key-features)
+  - [Usage](#usage)
+  - [Examples](#examples)
+  - [Resources](#resources)
 
 ---
 
