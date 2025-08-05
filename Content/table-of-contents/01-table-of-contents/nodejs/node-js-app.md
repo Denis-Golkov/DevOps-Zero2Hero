@@ -14,6 +14,8 @@
 # Table of Contents
 
 - [Create a new NodeJs application](#create-a-new-nodejs-application)
+- [Start The app](#start-the-app)
+- [Open the app](#open-the-app)
 
 ---
 
@@ -33,9 +35,18 @@ cd myapp
 #Install dependencies:
 npm install
 
+# Open webbrowser and enter:
+localhost:3000
+```
+---
+## Start The app
+```sh
 # Start the app:
 npm start
-
+```
+---
+## Open the app
+```sh
 # Open webbrowser and enter:
 localhost:3000
 ```
